@@ -1,0 +1,14 @@
+.footer__links-link {
+  margin-right: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__links-link:last-child {
+  margin-right: 0;
+}
+
+.footer__links-link:hover {
+  opacity: 0.8;
+  transition: all 0.15s;
+}
