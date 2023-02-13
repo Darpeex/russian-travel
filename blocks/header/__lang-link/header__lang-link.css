@@ -13,3 +13,7 @@
   display: inline-block;
   border-bottom: 1px solid white;
 }
+
+.header__lang-link:last-child:hover {
+  border-bottom: 1px solid white;
+} 
