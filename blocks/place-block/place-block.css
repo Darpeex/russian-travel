@@ -1,6 +1,6 @@
 .place-block:nth-child(2) {
   display: flex;
-  align-self: flex-start;
   flex-direction: column;
   justify-content: flex-end;
+  align-self: flex-end;
 }
