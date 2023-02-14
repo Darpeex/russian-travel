@@ -2,5 +2,11 @@
   height: 52px;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    height: 42px;
+  }
 }

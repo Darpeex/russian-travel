@@ -1,6 +1,4 @@
 .place-block__website-url {
-  width: 456px;
-  height: 12px;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -8,4 +6,15 @@
   letter-spacing: 2px;
   margin: 0 0 12px;
   color: #AAAAAA;
+  display: flex;
+  align-self: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
   }
+
+@media screen and (max-width: 767px) {
+  .place-block__website-url {
+    width: calc(100% - 16px*2);
+    margin: 0 auto 12px;
+  }
+}
