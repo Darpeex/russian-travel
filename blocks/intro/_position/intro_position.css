@@ -15,7 +15,6 @@
 }
 @media screen and (max-width: 767px) {
   .intro_position {
-    box-sizing: border-box;
     margin: 64px 16px;
   }
 }

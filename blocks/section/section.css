@@ -3,12 +3,6 @@
   padding-right: 48px;
 }
 
-@media screen and (max-width: 1279px) {
-  .section {
-    padding-left: 48px;
-    padding-right: 48px;
-  }
-}
 @media screen and (max-width: 1023px) {
   .section {
     padding-left: 24px;

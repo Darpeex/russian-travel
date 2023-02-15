@@ -5,14 +5,11 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
-}
-
-.place-block__text:first-child {
   margin-bottom: 26px;
 }
 
-.place-block__text:last-of-type {
-  margin: 0 auto;
+.place-block__text:last-child {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 1023px) {
