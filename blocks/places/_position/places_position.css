@@ -9,6 +9,6 @@
 }
 @media screen and (max-width: 767px) {
   .places_position {
-    margin: 64px auto 66px;
+    margin: 64px auto calc(66px - 25px);
   }
 }
