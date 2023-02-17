@@ -37,13 +37,16 @@
     min-height: 640px;
   }
 }
-
 @media screen and (max-width: 1023px) {
   .cover__image {
     min-height: 480px;
   }
 }
-
+@media screen and (max-width: 767px) {
+  .cover__image {
+    min-height: 340px;
+  }
+}
 @media screen and (max-width: 621px) {
   .cover__image {
     min-height: 200px;
