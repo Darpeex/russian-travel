@@ -1,15 +1,15 @@
-.footer_position {
+.page__item_position_footer {
   margin: 92px auto 0px;
   padding-bottom: 24px;
 }
 
 @media screen and (max-width: 1023px) {
-  .footer_position {
+  .page__item_position_footer {
     margin-top: 88px;
   }
 }
 @media screen and (max-width: 767px) {
-  .footer_position {
+  .page__item_position_footer {
     margin-top: 64px;
   }
 }
