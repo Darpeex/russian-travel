@@ -1,14 +1,14 @@
-.page__item_position_places {
+.page__places_position {
   margin: 92px auto;
 }
 
 @media screen and (max-width: 1023px) {
-  .page__item_position_places {
+  .page__places_position {
     margin: 88px auto 90px;
   }
 }
 @media screen and (max-width: 767px) {
-  .page__item_position_places {
+  .page__places_position {
     margin: 64px auto calc(66px - 25px);
   }
 }

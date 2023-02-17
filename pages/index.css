@@ -20,7 +20,7 @@
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_actived.css);
-@import url(../blocks/page/__item/_position/_header/page__item_position_header.css);
+@import url(../blocks/page/__header/_position/page__header_position.css);
 
 /* lead */
 @import url(../blocks/lead/lead.css);
@@ -37,7 +37,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
-@import url(../blocks/page/__item/_position/_intro/page__item_position_intro.css);
+@import url(../blocks/page/__intro/_position/page__intro_position.css);
 
 /* photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
@@ -45,7 +45,7 @@
 
 /* places */
 @import url(../blocks/places/places.css);
-@import url(../blocks/page/__item/_position/_places/page__item_position_places.css);
+@import url(../blocks/page/__places/_position/page__places_position.css);
 /* place */
 @import url(../blocks/place/place.css);
 /* place-block */
@@ -67,4 +67,4 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__links-link/footer__links-link.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/page/__item/_position/_footer/page__item_position_footer.css);
+@import url(../blocks/page/__footer/_position/page__footer_position.css);
