@@ -11,7 +11,7 @@
     font-size: 42px;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 621px) {
   .place-block__title {
     font-size: 32px;
     width: calc(100% - 16px*2);
