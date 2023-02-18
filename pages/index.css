@@ -4,9 +4,6 @@
 /* fonts */
 @import url(../vendor/fonts.css);
 
-/* html */
-@import url(../vendor/html.css);
-
 /* section */
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/_narrow/section_narrow.css);
@@ -19,7 +16,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_active/header__lang-link_actived.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/page/__header-position/page__header-position.css);
 
 /* lead */
